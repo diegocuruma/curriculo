@@ -80,7 +80,7 @@ Fortaleza/CE
 [UX/Design/Front](http://espacocasadella.com.br)
 
 * APRECE - Associação dos Municípios do Estado do Ceará
-[UX/Design](http://espacocasadella.com.br)
+[UX/Design](http://aprece.org.br)
 
 * FBS - Fornecedores de Bens e Serviços
 [UX/Design/Front](http://fbsce.com.br)
