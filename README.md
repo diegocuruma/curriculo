@@ -60,18 +60,16 @@ Fortaleza/CE
 
 ## Experência Profissional
 
-* **Projetos Pessoais**
-* DEV Team**
+**Projetos Pessoais
+* 2011/Atualmente - **DEV Team * - Arquiteto de informação / Designer de interface web * **
 > Atualmente atuo no time criado de DEVs para disponibilizar suas habilidades em desenvolvimento web e oferecer uma proposta de produto com resultados ao cliente que necessite de soluções para seu negócio na rede.
 [DEV](https://devunderground.com.br)
 
-* 2013/Atualmente - **E-deas *(Emprego Atual)* **
-* Arquiteto de informação / Designer de interface web
+* 2013/Atualmente - **E-deas *(Emprego Atual) - Arquiteto de informação / Designer de interface web * ** 
 > Trabalho com Arquitetura de Informação pensando sempre em projetar sites com a melhor experiência do usuário, com foco em usabilidade e design da interface (UI).
 > Front-ewd e SMS
 
-* 2013/2015 - **E-deas**
-* 2011/2013 - **Web designer**
+* 2013/2015 - **E-deas* - Web designer * **
 > Desenvolvimento de websites, incluindo a codificação front-end, recursos de acessibilidade, SEO, implementação de SMS (Wordpress).
 
 
@@ -88,6 +86,7 @@ Fortaleza/CE
 
 * Sheng Chi - Restaurante
 [UX/Design](https://shengchi.com.br)
+
 ---
 
 ## Formação
