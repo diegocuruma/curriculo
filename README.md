@@ -93,8 +93,8 @@ Fortaleza/CE
 ## Formação
 * **Médio** - Figueiredo Correia EEFM 2007
 * **Curso** - Língua Inglesa - Cursando 1º Semestre (6 Semestres) - Núlleo de Línguas Estrangeiras - UECE/PROLIN 
-* **Curso** - UX para Web Designers 2014
-* **Curso** - Gestão de Projetos 2016
+* **Curso** - UX para Web Designers - UX Academy/2014
+* **Curso** - Gestão de Projetos Veduda/2016 
 
 
 ## Eventos e colaborações
