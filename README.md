@@ -7,11 +7,11 @@ Fortaleza/CE
 
 **Telefone:** (85) 98717-2112
 
-**E-mail:** diegocuruma@protonmail.com | diegocuruma@gmail.com
+**E-mail:** diegocuruma@gmail.com
 
 **Linkedin:** [https://www.linkedin.com/in/diego-curumim](https://www.linkedin.com/in/diego-curumim)
 
-**Behance:** [https://www.behance.net/diegocuruma](https://www.behance.net/diegocuruma)
+**Behance:** [https://www.be.net/diegocuruma](https://www.be.net/diegocuruma)
 
 **Github:** diegocuruma
 
@@ -26,27 +26,29 @@ Fortaleza/CE
 
 **FrontEnd:**
 * HTML5/CSS3
+* Performance
+* jQuery/JS
 * Pré-processadores (Sass, Less, Stylus)
 * Bootstrap
 * Pure
 * Responsive Design
 * Automatizadores (Grunt, Gulp)
-* jQuery
+* Controle de versão com git
 
-
-**Design:**
+**Design e UX:**
 * UX/UI
 * Design de interface de usuário
 * Ninjamock
 * PS
 * Corel
 * Illustrator
-
-**Outros:**
+* Pesquisas
 * Arquitetura de Informação
-* Sitemaps, fluxos de navegação, wireframes e protótipos
-* Conhecimento em SEO
-* Controle de versão com git
+* Personas, sitemaps, fluxos de navegação, wireframes e protótipos
+
+**Conhecimento em:**
+* SEO
+* Mailchimp
 
 ---
 
@@ -66,7 +68,7 @@ Fortaleza/CE
 > Atualmente atuo no time criado de DEVs para disponibilizar suas habilidades em desenvolvimento web e oferecer uma proposta de produto com resultados ao cliente que necessite de soluções para seu negócio na rede.
 [DEV Team](http://devunderground.com.br)
 
-* 2013/Atualmente - **E-deas *(Emprego Atual) - Arquiteto de informação / Designer de interface web * ** 
+* 2013/Atualmente - **E-deas *(Emprego Atual) - UX Generalist e Front-end * ** 
 > Trabalho com Arquitetura de Informação pensando sempre em projetar sites com a melhor experiência do usuário, com foco em usabilidade e design da interface (UI), atuando também com Front-ewd e SMS.
 [E-deas](http://e-deas.com.br)
 
@@ -76,14 +78,20 @@ Fortaleza/CE
 
 ## Projetos de destaque
 
+* Prefeitura de Pacajus
+[UX/Design](http://prefeituradepacajus.gov.br)
+
+* CDL Jovem de Fortaleza
+[UX/Design](http://cdljovemfor.com.br)
+
+* Faculdade Ratio
+[UX/Design](http://ratio.edu.br)
+
 * Espaço Casa D' Ella
-[UX/Design/Front](http://espacocasadella.com.br)
+[UX/Design/Front/CMS](http://espacocasadella.com.br)
 
 * APRECE - Associação dos Municípios do Estado do Ceará
 [UX/Design](http://aprece.org.br)
-
-* FBS - Fornecedores de Bens e Serviços
-[UX/Design/Front](http://fbsce.com.br)
 
 * Sheng Chi - Restaurante
 [UX/Design](http://shengchi.com.br)
@@ -92,9 +100,11 @@ Fortaleza/CE
 
 ## Formação
 * **Médio** - Figueiredo Correia EEFM 2007
-* **Curso** - Língua Inglesa - Cursando 1º Semestre (6 Semestres) - Núcleo de Línguas Estrangeiras - UECE/PROLIN 
-* **Curso** - UX para Web Designers - UX Academy/2014
-* **Curso** - Gestão de Projetos Veduca/2016 
+* **Curso** - Língua Inglesa - Cursando 3º Semestre (6 Semestres) - Núcleo de Línguas Estrangeiras - UECE/PROLIN 
+* **Curso** - Certificação em sites para dispositivos móveis - Google
+* **Curso** - UX para Web Designers - UX Academy
+* **Curso** - Arquitetura da informação e projeto de sistemas - TIM Tec
+* **Curso** - Otimizando Frontends - André Baltieri
 
 
 ## Eventos e colaborações
