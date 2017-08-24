@@ -79,7 +79,7 @@ Fortaleza/CE
 ## Projetos de destaque
 
 * Prefeitura de Pacajus
-[UX/Design](http://prefeituradepacajus.gov.br)
+[UX/Design](http://pacajus.gov.br)
 
 * CDL Jovem de Fortaleza
 [UX/Design](http://cdljovemfor.com.br)
