@@ -34,8 +34,9 @@ Fortaleza/CE
 * Responsive Design
 * Automatizadores (Grunt, Gulp)
 * Controle de versão com git
+* SEO
 
-**Design e UX:**
+**UX, Design e ferramentas:**
 * UX/UI
 * Design de interface de usuário
 * Ninjamock
@@ -47,8 +48,9 @@ Fortaleza/CE
 * Personas, sitemaps, fluxos de navegação, wireframes e protótipos
 
 **Conhecimento em:**
-* SEO
-* Mailchimp
+* Templates para newsletter(Mailchimp)
+* Campanhas para newsletter(Mailchimp)
+* Campanhas adwords (Google)
 
 ---
 
